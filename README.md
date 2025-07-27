@@ -6,7 +6,7 @@
 
  cd frontend-pre-test/
 
-### 2 -> Install the depedencies
+### 2 -> Install the dependencies
   npm install
 ### 3 -> Run the command to start the development server
 
